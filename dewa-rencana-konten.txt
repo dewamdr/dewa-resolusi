@@ -5,6 +5,8 @@ Rencana  Konten Dewa
   * Framework Javascript
     >  Vue  
     > React
+    > Svelte JS
+    > Angular
 - Struktur Data   Dasar
 -  PHP Framework
    > Laravel
