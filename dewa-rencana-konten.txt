@@ -1,0 +1,18 @@
+Rencana  Konten Dewa
+
+- Javascript
+  *   ES6
+  * Framework Javascript
+-  PHP Framework
+-  Interview
+-   VLog
+
+
+
+
+
+
+
+
+
+
